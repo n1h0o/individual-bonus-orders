@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.ТЗ_ВидыПремий1" id="4e5761a7-131f-4553-8652-b2c22d9f7237" configVersion="e3b83d304a62a9409430446caea1489600000000"/>
+		<Metadata name="Catalog.ТЗ_ВидыПремий1.Form.ФормаСписка" id="33fd206c-9eee-441d-b2eb-4c7a4b1f7321" configVersion="0ab3dc8bef70a34db7e926f90b99b3e800000000"/>
+		<Metadata name="Catalog.ТЗ_ВидыПремий1.Form.ФормаСписка.Form" id="33fd206c-9eee-441d-b2eb-4c7a4b1f7321.0" configVersion="6de6d82fe0478c438a4d6d5368a0f0c100000000"/>
+		<Metadata name="Catalog.ТЗ_ВидыПремий1.Form.ФормаЭлемента" id="596a7b2f-cdf8-4f99-a46f-a5ac71b7b72b" configVersion="5ac52d5e026b1f4a9e90651ca3436bb000000000"/>
+		<Metadata name="Catalog.ТЗ_ВидыПремий1.Form.ФормаЭлемента.Form" id="596a7b2f-cdf8-4f99-a46f-a5ac71b7b72b.0" configVersion="bacaef0ecc5a3a429853a3ae4b7c7a4b00000000"/>
+		<Metadata name="Catalog.ТЗ_Должности1" id="c1979bbc-5969-4020-b952-1a7acf8ed227" configVersion="c3f93e992229264abdb529991940379b00000000"/>
+		<Metadata name="Catalog.ТЗ_Должности1.Form.ФормаСписка" id="9383d8da-07a2-45d2-b7a9-c917b0e5da2e" configVersion="ae6242423019b646a3a898ab8e7b986000000000"/>
+		<Metadata name="Catalog.ТЗ_Должности1.Form.ФормаСписка.Form" id="9383d8da-07a2-45d2-b7a9-c917b0e5da2e.0" configVersion="317fa6ba08e1d844bd676081efb36d5f00000000"/>
+		<Metadata name="Catalog.ТЗ_Должности1.Form.ФормаЭлемента" id="cc4d7505-fe91-4b03-b360-60a493458a45" configVersion="98f96ebb20701242b5355dcf96efffc400000000"/>
+		<Metadata name="Catalog.ТЗ_Должности1.Form.ФормаЭлемента.Form" id="cc4d7505-fe91-4b03-b360-60a493458a45.0" configVersion="f483d99850cb424090cb7d9f5cb73d0d00000000"/>
+		<Metadata name="Catalog.ТЗ_Организации1" id="5b48b97a-156c-456a-aa27-9d3b3f9369d8" configVersion="b726d6fc2c252544a24434a73acc701100000000">
+			<Metadata name="Catalog.ТЗ_Организации1.Attribute.Руководитель" id="9e269f75-59f4-4535-b8e2-d0cc4a924559"/>
+			<Metadata name="Catalog.ТЗ_Организации1.Attribute.ДолжностьРуководителя" id="e592491b-581e-4be7-ad2f-0c78c66ddd42"/>
+		</Metadata>
+		<Metadata name="Catalog.ТЗ_Организации1.Form.ФормаСписка" id="14f56192-29a4-4a41-a580-63ed494a56ee" configVersion="709a4a4ecfe57947ba42ea19ee90344500000000"/>
+		<Metadata name="Catalog.ТЗ_Организации1.Form.ФормаСписка.Form" id="14f56192-29a4-4a41-a580-63ed494a56ee.0" configVersion="d46cd379404dad40b01788a8fa7d03bd00000000"/>
+		<Metadata name="Catalog.ТЗ_Организации1.Form.ФормаЭлемента" id="b3c1adeb-8820-4da7-a052-6e430b5d2c64" configVersion="c1a67a317908224993e8cf981916c34500000000"/>
+		<Metadata name="Catalog.ТЗ_Организации1.Form.ФормаЭлемента.Form" id="b3c1adeb-8820-4da7-a052-6e430b5d2c64.0" configVersion="522aaa0cb5777d4da23f6ec232b443e900000000"/>
+		<Metadata name="Catalog.ТЗ_Подразделения1" id="ef5fe84c-1709-471a-83cb-a0e169683103" configVersion="8fce19527c730648b815a0882c0e5f5800000000"/>
+		<Metadata name="Catalog.ТЗ_Подразделения1.Form.ФормаСписка" id="e20b60ec-fd90-4af3-abbc-44a849976c75" configVersion="344ff4f119d1a84b92985cf8bc17bd5400000000"/>
+		<Metadata name="Catalog.ТЗ_Подразделения1.Form.ФормаСписка.Form" id="e20b60ec-fd90-4af3-abbc-44a849976c75.0" configVersion="3e915f09066f0c44a3fd27607d02e92a00000000"/>
+		<Metadata name="Catalog.ТЗ_Подразделения1.Form.ФормаЭлемента" id="66a66542-6a7a-4e54-b54d-ca6b12cc694a" configVersion="6296be411bbf0844b0032d5cc0e25c2d00000000"/>
+		<Metadata name="Catalog.ТЗ_Подразделения1.Form.ФормаЭлемента.Form" id="66a66542-6a7a-4e54-b54d-ca6b12cc694a.0" configVersion="f46bff0255484b40ae7a684db998a7b500000000"/>
+		<Metadata name="Catalog.ТЗ_ПрисоединенныеФайлы1" id="639fbcd1-2371-4cc4-8cfa-b39efba9f2ed" configVersion="9ca1e0c1c8348d45b7cf94381d6a538700000000">
+			<Metadata name="Catalog.ТЗ_ПрисоединенныеФайлы1.Attribute.КлючФайла" id="3b9e537a-9781-4242-a414-10d0b47f30d4"/>
+			<Metadata name="Catalog.ТЗ_ПрисоединенныеФайлы1.Attribute.ИмяФайла" id="581a1757-4257-4c87-a3e5-91496c3a565f"/>
+			<Metadata name="Catalog.ТЗ_ПрисоединенныеФайлы1.Attribute.ДанныеФайла" id="61155a51-aeb8-40d6-8892-3651b4f1072b"/>
+			<Metadata name="Catalog.ТЗ_ПрисоединенныеФайлы1.Attribute.ДокументПремия" id="6b69e965-3c7d-4293-a4c2-a031e934bea0"/>
+			<Metadata name="Catalog.ТЗ_ПрисоединенныеФайлы1.Attribute.Сотрудник" id="f1989218-4dd8-4e59-9ce5-9e4a38cde7e4"/>
+		</Metadata>
+		<Metadata name="Catalog.ТЗ_Сотрудники1" id="1e06ffdb-203c-4cb3-9518-ce301fbb756c" configVersion="75cf04a61f96094ba7920d308520569b00000000">
+			<Metadata name="Catalog.ТЗ_Сотрудники1.Attribute.ТабельныйНомер" id="eeb6bb7d-6f03-4919-88c0-24f7445930bd"/>
+		</Metadata>
+		<Metadata name="Catalog.ТЗ_Сотрудники1.Form.ФормаСписка" id="1e4c29fc-d404-4833-a412-b37832b24967" configVersion="2630423405958541b340f2a71276be6c00000000"/>
+		<Metadata name="Catalog.ТЗ_Сотрудники1.Form.ФормаСписка.Form" id="1e4c29fc-d404-4833-a412-b37832b24967.0" configVersion="b9501ddaa1600d49bdbf665bf542511900000000"/>
+		<Metadata name="Catalog.ТЗ_Сотрудники1.Form.ФормаЭлемента" id="3fcdac26-6344-4182-9a07-8252f40a2111" configVersion="e4816be955cd51428da4baf4624a7d8d00000000"/>
+		<Metadata name="Catalog.ТЗ_Сотрудники1.Form.ФормаЭлемента.Form" id="3fcdac26-6344-4182-9a07-8252f40a2111.0" configVersion="1d7dba74bef0f547b15d21764e4ce57a00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="2aa132eb-8044-4056-8060-70c5666e7739" configVersion="b239dd3aa4e3864d897cc2574419d80f00000000"/>
+		<Metadata name="DataProcessor.ТЗ_ИндивидуальныеПриказыНаПремию1" id="10f82656-3506-45f7-8c38-4929da1d5736" configVersion="8911b4a3412dc3419879b805a772be2100000000">
+			<Metadata name="DataProcessor.ТЗ_ИндивидуальныеПриказыНаПремию1.Attribute.ДокументПремия" id="4c3316aa-3d87-4a57-948c-e545e6b693bc"/>
+		</Metadata>
+		<Metadata name="DataProcessor.ТЗ_ИндивидуальныеПриказыНаПремию1.Form.Форма" id="123088e9-10e7-4aec-8751-32ebea139c57" configVersion="0ce18ad116042e4dbfaa79f9f9c22d7200000000"/>
+		<Metadata name="DataProcessor.ТЗ_ИндивидуальныеПриказыНаПремию1.Form.Форма.Form" id="123088e9-10e7-4aec-8751-32ebea139c57.0" configVersion="6935698e1494eb42bec43df4df2f9a5000000000"/>
+		<Metadata name="DataProcessor.ТЗ_ИндивидуальныеПриказыНаПремию1.Template.ТЗ_ПриказНаПремию" id="f324892b-ac80-47f5-ad4a-35749b78ecf4" configVersion="52940dd26bc7a449b61ee2c680b0ac7000000000"/>
+		<Metadata name="DataProcessor.ТЗ_ИндивидуальныеПриказыНаПремию1.Template.ТЗ_ПриказНаПремию.Template" id="f324892b-ac80-47f5-ad4a-35749b78ecf4.0" configVersion="a2cc27f59c2e1f4aac4d5a475c598e2200000000"/>
+		<Metadata name="Document.ТЗ_Премия1" id="7f327afc-3236-4fa1-ba52-c733f9c0e7b3" configVersion="b157b26a0b652f4dab4d16ed3b3a965900000000">
+			<Metadata name="Document.ТЗ_Премия1.TabularSection.Премии.Attribute.Сумма" id="7be8f0fc-6f6b-41fe-833b-677061d869e3"/>
+			<Metadata name="Document.ТЗ_Премия1.Attribute.Организация" id="bbb1e517-6520-45fd-92ba-2cd7b090c910"/>
+			<Metadata name="Document.ТЗ_Премия1.TabularSection.Премии.Attribute.Сотрудник" id="bfc2fa7b-a7d4-4768-82aa-7adc2d4921e2"/>
+			<Metadata name="Document.ТЗ_Премия1.TabularSection.Премии" id="d8750842-8575-47dd-b0a6-9bee6bfe9ba2"/>
+			<Metadata name="Document.ТЗ_Премия1.TabularSection.Премии.Attribute.ВидПремии" id="ff5aa167-c9c5-4d31-b135-f4ff3af38c5c"/>
+		</Metadata>
+		<Metadata name="Document.ТЗ_Премия1.Form.ФормаДокумента" id="00f76ac0-0160-4c74-bb64-400aa5651797" configVersion="d9d9034c1b697b4a8a24a6ae30ca894200000000"/>
+		<Metadata name="Document.ТЗ_Премия1.Form.ФормаДокумента.Form" id="00f76ac0-0160-4c74-bb64-400aa5651797.0" configVersion="7e9ffee38d26c14fb82a830f1d2cec9600000000"/>
+		<Metadata name="InformationRegister.ТЗ_КадроваяИстория1" id="fee92cc4-4012-43a3-80e6-b8d5eb9bb70e" configVersion="1d449fbf20c08e459e51898e3af4315200000000">
+			<Metadata name="InformationRegister.ТЗ_КадроваяИстория1.Resource.Должность" id="0a685e4e-1245-4f48-96de-afc7812761eb"/>
+			<Metadata name="InformationRegister.ТЗ_КадроваяИстория1.Dimension.Сотрудник" id="11c79bfb-c176-4404-835c-0017c69eb9d7"/>
+			<Metadata name="InformationRegister.ТЗ_КадроваяИстория1.Resource.Подразделение" id="49d56713-5d62-4ba2-8910-fc345ecd24e4"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="1cab91cb-5cfd-4d05-a732-eb280a9672a1" configVersion="640d7270f16bad48ad5efcf53961579100000000"/>
+		<Metadata name="Subsystem.ТЗ_Премирование1" id="5285d20b-a407-4dd2-a6f5-9260596edff6" configVersion="a8b2105742bf7349933c2d29de78c45c00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
